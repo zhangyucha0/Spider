@@ -71,6 +71,8 @@ cmd或编译器下直接执行`main.py`文件即可。
 
 ## 数据库
 
+> [完整教程传送门](http://www.jianshu.com/p/9e5bc16c48c3)
+
 ### Windows下MongoDB安装
 
 手动创建文件夹
